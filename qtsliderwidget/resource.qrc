@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/defDot.png</file>
+        <file>res/image/selectDot.png</file>
+        <file>res/qss/style.qss</file>
+    </qresource>
+</RCC>

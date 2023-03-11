@@ -1,0 +1,7 @@
+QScrollArea[show_border=true]#scrollArea{background-color: #EAEAEA; border: 1px solid blue;}
+QScrollArea[show_border=false]#scrollArea{background: transparent; border: none;}
+
+QWidget[show_border=true]#navigationWidget{background-color: #B5E0CE; border: 1px solid green;}
+QWidget[show_border=false]#navigationWidget{background: transparent; border: none;}
+
+QWidget#widgetContents{background: transparent;border: none;}
